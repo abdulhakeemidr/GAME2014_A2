@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: d9e0d08d8d9817841a18e2fa543a21ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7963604878319831225
+    second: Muzzle Flash Shotgun_0
+  - first:
+      213: 5435057010732259015
+    second: Muzzle Flash Shotgun_1
+  - first:
+      213: 5887313476875616194
+    second: Muzzle Flash Shotgun_5
+  - first:
+      213: -928463856655929420
+    second: Muzzle Flash Shotgun_5
+  - first:
+      213: -3389365356174082498
+    second: Muzzle Flash Shotgun_4
+  - first:
+      213: 4779640188704533972
+    second: Muzzle Flash Shotgun_3
+  - first:
+      213: -149440423170293181
+    second: Muzzle Flash Shotgun_6
+  - first:
+      213: -5428209336413574574
+    second: Muzzle Flash Shotgun_7
+  - first:
+      213: 2240426267816031025
+    second: Muzzle Flash Shotgun_8
+  - first:
+      213: 4837841729310062443
+    second: Muzzle Flash Shotgun_4
+  - first:
+      213: -8462028006461124122
+    second: Muzzle Flash Shotgun_10
+  - first:
+      213: 4857734504654043106
+    second: Muzzle Flash Shotgun_11
+  - first:
+      213: -5709090969699808188
+    second: Muzzle Flash Shotgun_12
+  - first:
+      213: -2383931905844445334
+    second: Muzzle Flash Shotgun_13
+  - first:
+      213: -1394701750282495126
+    second: Muzzle Flash Shotgun_14
+  - first:
+      213: 448252726156467182
+    second: Muzzle Flash Shotgun_15
+  - first:
+      213: -4936038156979155726
+    second: Muzzle Flash Shotgun_16
+  - first:
+      213: -2638663027662570914
+    second: Muzzle Flash Shotgun_17
+  - first:
+      213: 6849646102229652589
+    second: Muzzle Flash Shotgun_18
+  - first:
+      213: -3135447736429265974
+    second: Muzzle Flash Shotgun_19
+  - first:
+      213: 5932080999816615295
+    second: Muzzle Flash Shotgun_20
+  - first:
+      213: -2256794923205497733
+    second: Muzzle Flash Shotgun_21
+  - first:
+      213: 8421702583608219181
+    second: Muzzle Flash Shotgun_22
+  - first:
+      213: -4216518654045985810
+    second: Muzzle Flash Shotgun_23
+  - first:
+      213: 5340222986969912278
+    second: Muzzle Flash Shotgun_24
+  - first:
+      213: -1407836258355203102
+    second: Muzzle Flash Shotgun_25
+  - first:
+      213: -1080103699035381883
+    second: Muzzle Flash Shotgun_26
+  - first:
+      213: -6749203187108139093
+    second: Muzzle Flash Shotgun_27
+  - first:
+      213: 8710910878190068697
+    second: Muzzle Flash Shotgun_28
+  - first:
+      213: -2968772445288709624
+    second: Muzzle Flash Shotgun_29
+  - first:
+      213: 5705838836257835469
+    second: Muzzle Flash Shotgun_30
+  - first:
+      213: -1046577143297265990
+    second: Muzzle Flash Shotgun_31
+  - first:
+      213: -854674556366859033
+    second: Muzzle Flash Shotgun_32
+  - first:
+      213: -8340402322670249117
+    second: Muzzle Flash Shotgun_33
+  - first:
+      213: -3754534092558377810
+    second: Muzzle Flash Shotgun_34
+  - first:
+      213: -6138040352128505676
+    second: Muzzle Flash Shotgun_35
+  - first:
+      213: 4286010435126506605
+    second: Muzzle Flash Shotgun_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muzzle Flash Shotgun_0
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747bd206e879b7190800000000000000
+      internalID: -7963604878319831225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Shotgun_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c651ba1e833d6b40800000000000000
+      internalID: 5435057010732259015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Shotgun_5
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 12
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7a863a60f3b150800000000000000
+      internalID: 5887313476875616194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Shotgun_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfeb35aa0f6d13f0800000000000000
+      internalID: -928463856655929420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Shotgun_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd2ae19d61b45240800000000000000
+      internalID: 4779640188704533972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muzzle Flash Shotgun_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67761bbb67732340800000000000000
+      internalID: 4837841729310062443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
