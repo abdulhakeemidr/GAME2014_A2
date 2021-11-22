@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Grid
+    uniqueID: 3774260099
+    locked: 0
+  - name: Player
+    uniqueID: 3511023525
+    locked: 0
