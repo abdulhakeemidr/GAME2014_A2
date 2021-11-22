@@ -15,11 +15,11 @@ C:/Users/Abdul/Documents/1 GBC/Yr 3 Sem 1/Mobile Game Dev/GAME2014_A2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62796
+64040
 Successfully changed project path to: C:/Users/Abdul/Documents/1 GBC/Yr 3 Sem 1/Mobile Game Dev/GAME2014_A2
 C:/Users/Abdul/Documents/1 GBC/Yr 3 Sem 1/Mobile Game Dev/GAME2014_A2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 166.12 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 139.68 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.19f1 (5f5eb8bbdc25)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/Resources/UnitySubsystems
@@ -35,94 +35,94 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008015 seconds.
+Registered in 0.004958 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 154.37 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 133.33 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.673 seconds
+- Completed reload, in  7.009 seconds
 Domain Reload Profiling:
-	ReloadAssembly (5674ms)
-		BeginReloadAssembly (150ms)
+	ReloadAssembly (7009ms)
+		BeginReloadAssembly (111ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (780ms)
-			LoadAssemblies (149ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (650ms)
+			LoadAssemblies (105ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (265ms)
+			SetupTypeCache (206ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (44ms)
-			SetupLoadedEditorAssemblies (384ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (337ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (12ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (154ms)
+				RefreshPlugins (133ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (169ms)
-				ProcessInitializeOnLoadMethodAttributes (46ms)
+				ProcessInitializeOnLoadAttributes (149ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.021998 seconds.
+Registered in 0.011843 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014_A2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014_A2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 169.22 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 130.28 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.306 seconds
+- Completed reload, in  1.845 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2306ms)
-		BeginReloadAssembly (302ms)
+	ReloadAssembly (1846ms)
+		BeginReloadAssembly (241ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (35ms)
-		EndReloadAssembly (1897ms)
-			LoadAssemblies (307ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (1500ms)
+			LoadAssemblies (183ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (605ms)
+			SetupTypeCache (478ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (91ms)
-			SetupLoadedEditorAssemblies (794ms)
+			RebuildScriptCaches (73ms)
+			SetupLoadedEditorAssemblies (663ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (169ms)
-				BeforeProcessingInitializeOnLoad (170ms)
-				ProcessInitializeOnLoadAttributes (406ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				RefreshPlugins (130ms)
+				BeforeProcessingInitializeOnLoad (134ms)
+				ProcessInitializeOnLoadAttributes (349ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (17ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 1.11 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.00 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3687 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.9 MB.
-System memory in use after: 137.2 MB.
+Unloading 3688 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.0 MB.
+System memory in use after: 137.3 MB.
 
-Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 4136.
-Total: 6.283200 ms (FindLiveObjects: 0.540700 ms CreateObjectMapping: 0.285700 ms MarkObjects: 5.364600 ms  DeleteObjects: 0.089900 ms)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 4139.
+Total: 6.601200 ms (FindLiveObjects: 0.482900 ms CreateObjectMapping: 0.197700 ms MarkObjects: 5.816800 ms  DeleteObjects: 0.101700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -135,53 +135,112 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  path: Assets/sunnyland woods/Sprites/enemies/gator/gator-2.png
+  artifactKey: Guid(891aebe1de36e4f799b0d360c872239d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/enemies/gator/gator-2.png using Guid(891aebe1de36e4f799b0d360c872239d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541b63a161b28f9be3cfcd8ddc7799b2') in 0.209099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000621 seconds.
+  path: Assets/sunnyland woods/Sprites/enemies/grasshopper-idle
+  artifactKey: Guid(a3b6e7bc4111246be83aec6470f671e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/enemies/grasshopper-idle using Guid(a3b6e7bc4111246be83aec6470f671e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5a25deaae9bddb8fae6790ec28aaca') in 0.007301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/sunnyland woods/Sprites/enemies/grasshopper-jump/grasshopper-jump-1.png
+  artifactKey: Guid(c8d882928434e4970b1a12d65455866d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/enemies/grasshopper-jump/grasshopper-jump-1.png using Guid(c8d882928434e4970b1a12d65455866d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fdd5e69cfffc0a5f16bfbed1e08e9f4') in 0.025024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/sunnyland woods/Sprites/enemies
+  artifactKey: Guid(7e1b4a373d99e4eb0bde39fe1aa15bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/enemies using Guid(7e1b4a373d99e4eb0bde39fe1aa15bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '251dbacebd2c616c0f754b26dbca573f') in 0.006472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.605979 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies
+  artifactKey: Guid(c7f1351336fe548caa5323a57a6c930a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies using Guid(c7f1351336fe548caa5323a57a6c930a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41753eb07dd10040b51bfddd7fa4db6e') in 0.014918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.288291 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle
+  artifactKey: Guid(b38ec059928884139a1fc35d6fb8bb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle using Guid(b38ec059928884139a1fc35d6fb8bb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8614d85c7fd88a8f8f6a2f8e1557c4af') in 0.015116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.397756 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-1.png
+  artifactKey: Guid(f240dfd4814d34d55a9b033f3c9d8a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-1.png using Guid(f240dfd4814d34d55a9b033f3c9d8a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4291afdaab88caa17ec8bc13d3cf95') in 0.016937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.611667 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-4.png
+  artifactKey: Guid(63301056ddf5f4841800915f26c302d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/eagle/eagle-attack-4.png using Guid(63301056ddf5f4841800915f26c302d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6ab1cf38329d4dccc91c1b7102a2ce') in 0.016973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.550367 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/opossum
+  artifactKey: Guid(b51573a0febe34fceadd0e7c64f17c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/opossum using Guid(b51573a0febe34fceadd0e7c64f17c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda78bfbaaf5915d74a419bf97c0a31d') in 0.014956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.490578 seconds.
+  path: Assets/Sunnyland/artwork/Sprites/Enemies/opossum/opossum-1.png
+  artifactKey: Guid(baa0c643131554ff99574059ec7da1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Sprites/Enemies/opossum/opossum-1.png using Guid(baa0c643131554ff99574059ec7da1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3682a282ea8ceda74e4002786e7a0bf') in 0.018645 seconds 
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.014745 seconds.
+Registered in 0.029927 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014_A2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014_A2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.96 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.721 seconds
+- Completed reload, in  2.276 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1722ms)
-		BeginReloadAssembly (217ms)
+	ReloadAssembly (2276ms)
+		BeginReloadAssembly (277ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
+			DisableScriptedObjects (14ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (59ms)
-		EndReloadAssembly (1393ms)
-			LoadAssemblies (199ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (1841ms)
+			LoadAssemblies (243ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (558ms)
+			SetupTypeCache (708ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (67ms)
-			SetupLoadedEditorAssemblies (443ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (646ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (10ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (107ms)
-				ProcessInitializeOnLoadAttributes (302ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				BeforeProcessingInitializeOnLoad (137ms)
+				ProcessInitializeOnLoadAttributes (472ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (14ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (19ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.71 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3676 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 136.4 MB.
-System memory in use after: 136.7 MB.
+Unloading 3683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.9 MB.
+System memory in use after: 143.2 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4139.
-Total: 6.820200 ms (FindLiveObjects: 0.420700 ms CreateObjectMapping: 0.180700 ms MarkObjects: 6.188700 ms  DeleteObjects: 0.028200 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4229.
+Total: 8.359900 ms (FindLiveObjects: 0.579400 ms CreateObjectMapping: 0.238500 ms MarkObjects: 7.493200 ms  DeleteObjects: 0.046200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -195,43 +254,96 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a4034d3d715da871e781da702f0bc5') in 0.209002 seconds 
+  Time since last request: 1134.895021 seconds.
+  path: Assets/sunnyland woods/Environment/tileset-sliced.png
+  artifactKey: Guid(9a3f72f076ab840149080d30379776b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Environment/tileset-sliced.png using Guid(9a3f72f076ab840149080d30379776b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4925deb636bc00ba4992328fc7ae7197') in 0.839794 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.008968 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(28a4e9ccd5e674947872a514defaa1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(28a4e9ccd5e674947872a514defaa1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd098f9c03f19bd48a10ab71617baa17b') in 0.013469 seconds 
+  Time since last request: 0.294776 seconds.
+  path: Assets/sunnyland woods/Environment/tileset.png
+  artifactKey: Guid(af00e6efe9c134dcb8b84091c1930420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Environment/tileset.png using Guid(af00e6efe9c134dcb8b84091c1930420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c65fa031e950b903f8167ee81cab93d') in 0.036686 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 5688.044002 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fffa268c84671929c23e14b3366a74a') in 0.449955 seconds 
+  Time since last request: 126.295543 seconds.
+  path: Assets/Sprite Tiles
+  artifactKey: Guid(57955c9671f93b64381ed770f6fdc0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Tiles using Guid(57955c9671f93b64381ed770f6fdc0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bc19884acd55ef7bbfdcd3546a8a05') in 0.011012 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 46.754549 seconds.
-  path: Assets/Sunnyland/Scenes/demoSettings.lighting
-  artifactKey: Guid(acb1aaef0a8b9c4469b5ed19c912042f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/Scenes/demoSettings.lighting using Guid(acb1aaef0a8b9c4469b5ed19c912042f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
- -> (artifact id: 'a689d4ae310389ef537c4b991039f79d') in 0.076783 seconds 
+  Time since last request: 99.902159 seconds.
+  path: Assets/sunnyland woods/Environment/tileset-sliced.png
+  artifactKey: Guid(9a3f72f076ab840149080d30379776b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Environment/tileset-sliced.png using Guid(9a3f72f076ab840149080d30379776b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be65487559c19f487318bac23051fe90') in 0.868755 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013749 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014_A2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Abdul\Documents\1 GBC\Yr 3 Sem 1\Mobile Game Dev\GAME2014_A2\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.560 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1561ms)
+		BeginReloadAssembly (203ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (60ms)
+		EndReloadAssembly (1258ms)
+			LoadAssemblies (176ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (443ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (443ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (303ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3680 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.8 MB.
+System memory in use after: 146.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4281.
+Total: 6.622400 ms (FindLiveObjects: 0.492300 ms CreateObjectMapping: 0.189900 ms MarkObjects: 5.906700 ms  DeleteObjects: 0.031400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 664.336399 seconds.
-  path: Assets/Sunnyland/Scenes/demo.unity
-  artifactKey: Guid(cbd2611183a8d41e8b5ae48b2b35bbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/Scenes/demo.unity using Guid(cbd2611183a8d41e8b5ae48b2b35bbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6d3ca990e3173a8c85d6ba68a14900') in 0.011196 seconds 
+  Time since last request: 217.937787 seconds.
+  path: Assets/sunnyland woods/Environment/props-sliced/branch-01.png
+  artifactKey: Guid(7156a9df7cb1c473797e157b07ccf078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Environment/props-sliced/branch-01.png using Guid(7156a9df7cb1c473797e157b07ccf078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5b66fb252045fc2796f02ac2862c7e') in 0.070880 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6276.187199 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df75b7d1a31c5b4f73fd45661b403b04') in 0.028354 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.196617 seconds.
-  path: Assets/Scenes/Start.unity
-  artifactKey: Guid(7015a60f3e27de44190ecf75bfa8290b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Start.unity using Guid(7015a60f3e27de44190ecf75bfa8290b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac5d62e032ac94745385d66cad39f02') in 0.097813 seconds 
+  Time since last request: 424.660492 seconds.
+  path: Assets/sunnyland woods/Environment/props-sliced/leaves.png
+  artifactKey: Guid(4d280c4f09e7541b988b2f5707b8cb37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Environment/props-sliced/leaves.png using Guid(4d280c4f09e7541b988b2f5707b8cb37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ecaafd56a0493ade8082e627d8369df') in 0.025892 seconds 
