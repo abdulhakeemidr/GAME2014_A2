@@ -1,4 +1,14 @@
-﻿using System.Collections;
+﻿/* 
+ * Full Name        : Abdulhakeem Idris
+ * StudentID        : 101278361
+ * Date Modified    : November 24, 2021
+ * File             : VariableJoystick.cs
+ * Description      : This scripts controls the variable joystick prefab. This prefab asset was gotten from
+ *                      Ferenax studios in the unity asset store.
+ * Revision History : Version02
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;

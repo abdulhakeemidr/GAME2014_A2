@@ -1,9 +1,9 @@
 /* 
  * Full Name        : Abdulhakeem Idris
  * StudentID        : 101278361
- * Date Modified    : October 19, 2021
+ * Date Modified    : November 24, 2021
  * File             : UIBehaviour.cs
- * Description      : This is the UI Behaviour Script
+ * Description      : This script controls the button prefabs
  * Revision History : Version02
  */
 
