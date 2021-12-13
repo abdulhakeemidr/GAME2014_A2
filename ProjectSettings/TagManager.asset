@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Tree
   - Platform
+  - DeathPlane
   layers:
   - Default
   - TransparentFX

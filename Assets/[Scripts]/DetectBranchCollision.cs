@@ -7,13 +7,17 @@ public class DetectBranchCollision : MonoBehaviour
 {
     private Collider2D collider;
     private ScrollTreesDown scrollTree;
+
     private GameObject player;
+    private GameObject enemy;
+
     public UnityEvent collideTrigger;
 
     private void Start()
     {
         collider = GetComponent<BoxCollider2D>();
         player = FindObjectOfType<PlayerBehaviour>().gameObject;
+        enemy = FindObjectOfType<EnemyController>().gameObject;
         scrollTree = GameObject.FindObjectOfType<ScrollTreesDown>();
         collideTrigger.AddListener(delegate { scrollTree.ScrollTreeToPoint(transform.position); });
 
@@ -30,6 +34,8 @@ public class DetectBranchCollision : MonoBehaviour
         {
             collider.enabled = false;
         }
+        var enemyScript = enemy.GetComponent<EnemyController>();
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
