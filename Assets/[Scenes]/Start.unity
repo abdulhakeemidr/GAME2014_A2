@@ -613,7 +613,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Instruction text here
+  m_Text: 'Jump your way to the top of the tree!
+
+    Avoid falling off to the bottom
+    of the screen.
+
+
+    Joystick - Move left/right'
 --- !u!222 &564689520
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -963,7 +969,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Bunny Hopper
+  m_Text: Squirrel Hop
 --- !u!222 &952505441
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1591,7 +1597,7 @@ MonoBehaviour:
     Mobile
     Game Development
 
-    Version 01'
+    Version 02'
 --- !u!222 &1782983186
 CanvasRenderer:
   m_ObjectHideFlags: 0

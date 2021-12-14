@@ -9,11 +9,13 @@ public class PlayerBehaviour : MonoBehaviour
     public float horizontalForce;
     public float verticalForce;
 
-
+    public Joystick joystick;
     private Rigidbody2D rigidbody;
+    private Vector2 joystickMoveDir;
 
     void Start()
     {
+        joystick = FindObjectOfType<VariableJoystick>();
         rigidbody = GetComponent<Rigidbody2D>();
     }
 
@@ -25,6 +27,7 @@ public class PlayerBehaviour : MonoBehaviour
 
     private void Move()
     {
+        MoveTouchInput();
         float deltaTime = Time.deltaTime;
 
         float x = Input.GetAxisRaw("Horizontal");
@@ -44,6 +47,11 @@ public class PlayerBehaviour : MonoBehaviour
         float horizontalMoveForce = x * horizontalForce * deltaTime;
 
         rigidbody.AddForce(Vector2.right * horizontalMoveForce);
+    }
+
+    void MoveTouchInput()
+    {
+        joystickMoveDir = new Vector2(joystick.Horizontal, 0.0f);
     }
 
     private float FlipAnimation(float x)
